@@ -47,7 +47,7 @@ HOG:
 
 Code, data and files for the above can be found in the following files:
 
-- `Code`: code for all models and outcomes 
+- `CNN`, `MLP`, `SVM`: code for all models and outcomes 
 - `Dataset`: the image data used to train all models. Note: for copyright reasons the images are not included in this repo
 - `Test_Functions`: contains the code for the test functions used for all models
 - `Videos`: test videos for CNN
